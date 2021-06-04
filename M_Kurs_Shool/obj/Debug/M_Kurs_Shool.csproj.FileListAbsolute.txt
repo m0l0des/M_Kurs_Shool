@@ -1,0 +1,259 @@
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.csprojAssemblyReference.cache
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\MainWindow.g.cs
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\window\Change.g.cs
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\App.g.cs
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool_Content.g.cs
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool_MarkupCompile.cache
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool_MarkupCompile.lref
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\M_Kurs_Shool.exe.config
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\M_Kurs_Shool.exe
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\M_Kurs_Shool.pdb
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\EntityFramework.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\EntityFramework.SqlServer.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\EntityFramework.xml
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\EntityFramework.SqlServer.xml
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\ru\EntityFramework.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\MainWindow.baml
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\window\Change.baml
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.g.resources
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.Properties.Resources.resources
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.csproj.GenerateResource.cache
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.csproj.CoreCompileInputs.cache
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.csproj.CopyComplete
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.exe
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.pdb
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Microsoft.TeamFoundation.Common.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Newtonsoft.Json.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\System.Net.Http.Formatting.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Microsoft.TeamFoundation.Common.xml
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\Newtonsoft.Json.xml
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\System.Net.Http.Formatting.xml
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\window\Add.g.cs
+D:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\window\Add.baml
+E:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.csprojAssemblyReference.cache
+E:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\MainWindow.g.cs
+E:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\window\Add.g.cs
+E:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\window\Change.g.cs
+E:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\App.g.cs
+E:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool_Content.g.cs
+E:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool_MarkupCompile.cache
+E:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool_MarkupCompile.lref
+E:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.exe
+E:\21 год Курсовая\M_Kurs_Shool\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.pdb
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\M_Kurs_Shool.exe.config
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\M_Kurs_Shool.exe
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\M_Kurs_Shool.pdb
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\EntityFramework.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\EntityFramework.xml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.TeamFoundation.Common.xml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.csprojAssemblyReference.cache
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\MainWindow.g.cs
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\window\Add.g.cs
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\window\Change.g.cs
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\App.g.cs
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool_Content.g.cs
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool_MarkupCompile.cache
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool_MarkupCompile.lref
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\MainWindow.baml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\window\Add.baml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\window\Change.baml
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.g.resources
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.Properties.Resources.resources
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.csproj.GenerateResource.cache
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.csproj.CoreCompileInputs.cache
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.csproj.CopyComplete
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.exe
+C:\Users\LS\Desktop\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.pdb
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\M_Kurs_Shool.exe.config
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\M_Kurs_Shool.exe
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\M_Kurs_Shool.pdb
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\EntityFramework.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\EntityFramework.SqlServer.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Newtonsoft.Json.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\System.Net.Http.Formatting.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\EntityFramework.xml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\EntityFramework.SqlServer.xml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.TeamFoundation.Common.xml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\Newtonsoft.Json.xml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\System.Net.Http.Formatting.xml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ru\EntityFramework.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.csprojAssemblyReference.cache
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\MainWindow.g.cs
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\window\Add.g.cs
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\window\Change.g.cs
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\App.g.cs
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool_Content.g.cs
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool_MarkupCompile.cache
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool_MarkupCompile.lref
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\MainWindow.baml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\window\Add.baml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\window\Change.baml
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.g.resources
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.Properties.Resources.resources
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.csproj.GenerateResource.cache
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.csproj.CoreCompileInputs.cache
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.csproj.CopyComplete
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.exe
+C:\Новая папка\1\M_Kurs_Shool-main\M_Kurs_Shool\obj\Debug\M_Kurs_Shool.pdb
