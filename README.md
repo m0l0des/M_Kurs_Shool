@@ -64,7 +64,7 @@ https://github.com/m0l0des/M_Kurs_Shool
 
 ### Приложение было разработанно в Visual Studio, пример работы программы:
 ### Главное окно:
-![MainWindow](./img/MainWindow.PNG)
+![MainWindow](./img/MainWindow.png)
 #### Прмер кода разметки страницы:
   <Grid>
         <Grid.ColumnDefinitions>
