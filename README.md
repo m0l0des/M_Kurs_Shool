@@ -86,6 +86,21 @@ https://github.com/m0l0des/M_Kurs_Shool
                 Content="по убыванию" 
                 Checked="RadioButton_Checked"
                 VerticalContentAlignment="Center"/>
+<Label Content="Фильтр по скидке: "
+        Margin="10,0,0,0"
+        VerticalAlignment="Center"/>
+            <ComboBox
+    Name="DiscountFilterComboBox"
+    SelectedIndex="0"
+    SelectionChanged="DiscountFilterComboBox_SelectionChanged"
+    ItemsSource="{Binding FilterByDiscountNamesList}"/>
+            <Label Content="Поиск"/>
+            <TextBox
+                    x:Name="SearchFilterTextBox"
+                    Width="250"
+                    KeyUp="TextBox_KeyUp"
+                    VerticalAlignment="Center"
+                    />
 
             <Button Margin="5" x:Name="OrderProvid" Content="Операции" Click="OrdProvidClick"/>
             <Button Margin="5" x:Name="ExitBtn" Content="Выход" Click="ExitButtonClick"/>
@@ -258,6 +273,26 @@ namespace M_Kurs_Shool
         {
             SortPriceAscending = (sender as RadioButton).Tag.ToString() == "1";
         }
+        private string _SearchFilter = "";
+        public string SearchFilter
+        {
+            get { return _SearchFilter; }
+            set
+            {
+                _SearchFilter = value;
+                if (PropertyChanged != null)
+                {
+                    // при изменении фильтра список перерисовывается
+                    PropertyChanged(this, new PropertyChangedEventArgs("ContractList"));
+
+                }
+            }
+        }
+
+        private void TextBox_KeyUp(object sender, KeyEventArgs e)
+        {
+            SearchFilter = SearchFilterTextBox.Text;
+        }
         private Tuple<float, float> _CurrentDiscountFilter = Tuple.Create(float.MinValue, float.MaxValue);
 
         public Tuple<float, float> CurrentDiscountFilter
@@ -272,16 +307,39 @@ namespace M_Kurs_Shool
                 if (PropertyChanged != null)
                 {
                     // при изменении фильтра список перерисовывается
-                    PropertyChanged(this, new PropertyChangedEventArgs("ServiceList"));
+                    PropertyChanged(this, new PropertyChangedEventArgs("ContractList"));
                 }
             }
         }
 
-        private void ProductListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        public List<string> FilterByDiscountNamesList
         {
-
+            get
+            {
+                return FilterByDiscountValuesList
+                    .Select(item => item.Item1)
+                    .ToList();
+            }
         }
+
+        private List<Tuple<string, float, float>> FilterByDiscountValuesList =
+          new List<Tuple<string, float, float>>() {
+        Tuple.Create("Все записи", 0f, 30000f),
+        Tuple.Create("от 10000 до 12000", 10000f, 12000f),
+        Tuple.Create("от 13000 до 15000", 13000f, 15000f),
+        Tuple.Create("от 16000 до 17000", 16000f, 17000f),
+        Tuple.Create("от 18000 до 20000", 18000f, 20000f)
+    }; private void DiscountFilterComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            CurrentDiscountFilter = Tuple.Create(
+                FilterByDiscountValuesList[DiscountFilterComboBox.SelectedIndex].Item2,
+                FilterByDiscountValuesList[DiscountFilterComboBox.SelectedIndex].Item3
+            );
+        }
+
+
     }
+
 }
 ```
 
