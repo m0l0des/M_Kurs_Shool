@@ -26,6 +26,21 @@
                 Content="по убыванию" 
                 Checked="RadioButton_Checked"
                 VerticalContentAlignment="Center"/>
+            <Label Content="Фильтр по скидке: "
+        Margin="10,0,0,0"
+        VerticalAlignment="Center"/>
+            <ComboBox
+    Name="DiscountFilterComboBox"
+    SelectedIndex="0"
+    SelectionChanged="DiscountFilterComboBox_SelectionChanged"
+    ItemsSource="{Binding FilterByDiscountNamesList}"/>
+            <Label Content="Поиск"/>
+            <TextBox
+                    x:Name="SearchFilterTextBox"
+                    Width="250"
+                    KeyUp="TextBox_KeyUp"
+                    VerticalAlignment="Center"
+                    />
 
             <Button Margin="5" x:Name="OrderProvid" Content="Операции" Click="OrdProvidClick"/>
             <Button Margin="5" x:Name="ExitBtn" Content="Выход" Click="ExitButtonClick"/>
@@ -38,7 +53,7 @@
             Grid.Row="1"
             Grid.Column="1"
             ItemsSource="{Binding ContractList}"
-            x:Name="ProductListView" SelectionChanged="ProductListView_SelectionChanged">
+            x:Name="ProductListView">
             <ListView.ItemContainerStyle>
                 <Style 
                     TargetType="ListViewItem">
